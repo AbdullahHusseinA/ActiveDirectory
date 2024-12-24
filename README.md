@@ -1,5 +1,5 @@
 
-# Active Directory Homelab Setup (Oracle VirtualBox)
+# Active Directory (Oracle VirtualBox)
 
 ## Description
 
